@@ -62,3 +62,11 @@ Had to use `base64` to decode the answer.
 
 ## Level 11 → 12
 Using `tr` (translate/transliterate) — acts like a substitution tool. The challenge asked you to decode using **ROT13**, which replaces each letter with the one 13 positions ahead in the alphabet (e.g. A → N). The command uses `<` for input redirection.
+
+---
+
+## level 12 -> 13
+For this one, it was a lot of going back and forth because of the thing being that it was compressed through so much use of Gzip, Bzip2, and even Tar utility archive. Crazy Work, you have to use command like <tar -xf> (-x (extract) the -f (files)), <gzip -d (decompress)> and <bzip2 -d> also does the same thing as gzip basically
+
+---
+## level 13 -> 14
